@@ -1,0 +1,3 @@
+username|password|email|country
+melman|bgejkdnkjf|mshbfj@gm.com|zambia
+Mwimu|Mwii|mwii@gm.com|zambia
